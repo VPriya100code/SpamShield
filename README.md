@@ -5,10 +5,11 @@
 
 **🚀 Live Demo**
 
-**👉 (Add your Streamlit Cloud link here after deployment)**
-https://your-app-name.streamlit.app
+**👉 ( Streamlit Cloud link )**
+https://spamshieldml.streamlit.app/
 
 **🛡️ Features**
+
 **🔍 Smart Spam Detection**
 
 **Uses TF-IDF + Multinomial Naive Bayes**
@@ -52,6 +53,7 @@ https://your-app-name.streamlit.app
 **Model Evaluation	Accuracy, Confusion Matrix**
 **Language	Python 3**
 **Deployment	Streamlit Cloud**
+
 **📂 Project Structure**
 **📁 SpamShield/**
 **│── app.py**
@@ -60,6 +62,7 @@ https://your-app-name.streamlit.app
 **│── README.md**
 
 **▶️ Run Locally**
+
 **1. Install dependencies**
 pip install -r requirements.txt
 
@@ -89,8 +92,6 @@ app.py
 **Choose any available subdomain**
 
 **Deploy!**
-
-**❤️ Made With Love**
 
 **Built as a mini-project:**
 **SpamShield – Email & SMS Spam Classifier with Safe Reply Drafting**
